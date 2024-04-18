@@ -17,3 +17,4 @@ ORM : JPA
 Database: H2
 ▷ gradle(security 적용 전)
 권한에 상관없이 접근이 가능한 화면, 로그인을 안해도 주소만 알면 접근이 가능
+This site was built using [GitHub Pages](https://pages.github.com/).
