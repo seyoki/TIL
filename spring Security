@@ -8,6 +8,7 @@ Spring Security는 인증과 권한에 대해 Filter 흐름에 따라 처리하�
 인증:사용자가 누구인지 확인하는 절차 
 인가:  인증된 사용자가 요청한 자원에 접근 가능한지 권한을 확인하는 절차
 spring security 기본설정
+Spring Security는 OAuth2(소셜 로그인), JWT(Json Web Token) 등 다양한 로그인에 대해 제공합니다. 해당 글에서는 이러한 방법 보다는 기본적인 설정을 통해 인증과 인가에 대해 알아보고자 합니다.
 ## 사용기술 
 Framework:Spring Boot 
 Spring Security 6.1.0
@@ -17,4 +18,3 @@ ORM : JPA
 Database: H2
 ▷ gradle(security 적용 전)
 권한에 상관없이 접근이 가능한 화면, 로그인을 안해도 주소만 알면 접근이 가능
-This site was built using [GitHub Pages](https://pages.github.com/).
