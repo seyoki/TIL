@@ -1,0 +1,13 @@
+□ Spring Security란
+spring security는 spring 인증담당 프레임워크 
+인증과 인가
+인증:사용자가 누구인지 확인하는 절차 
+인가:  인증된 사용자가 요청한 자원에 접근 가능한지 권한을 확인하는 절차
+spring security 기본설정
+사용기술 
+Framework:Spring Boot 
+Spring Security 6.1.0
+개발 언어 : java 17
+view : mustache
+ORM : JPA
+Database: H2
